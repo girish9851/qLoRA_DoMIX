@@ -1,0 +1,6 @@
+rapidfuzz==3.6.1
+sentence-transformers==2.6.1
+torch>=1.13.0  # Required by sentence-transformers
+scipy>=1.4.1   # For cosine similarity
+numpy>=1.19.5
+
